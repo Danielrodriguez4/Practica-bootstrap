@@ -1,5 +1,11 @@
-.footer {
-	position: absolute;
+body { 
+         	font-family: Arial, sans-serif;
+      		background: lightgray;}}
+
+footer {
+	position: center;
+	text-align: center;
+	color: white;
 	bottom: 0;
 	width: 100%;
 	
